@@ -2,9 +2,9 @@
 
 |**#**|**Наименование проекта**|**Описание**|**Стек**|
 |--|--|--|--|
-|1|[Исследование надежности заемщиков](https://github.com/nik-moment/practicum-example/tree/main/reliability-research)|Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.|pandas|
-|2|[Исследование данных о российском кинопрокате](https://github.com/nik-moment/practicum-example/tree/main/film-distribution-research)|||
-|3|[Определение перспективного тарифа для телеком-компании](https://github.com/nik-moment/practicum-example/tree/main/tariff-analysis)|||
+|1|[Исследование надежности заемщиков](https://github.com/nik-moment/practicum-example/tree/main/reliability-research)|Анализ влияния семейного положения и количества детей клиента на факт погашения кредита в срок.|python, pandas|
+|2|[Исследование данных о российском кинопрокате](https://github.com/nik-moment/practicum-example/tree/main/film-distribution-research)|Изучение рынка российского кинопроката и выявление текущих трендов.|python, pandas|
+|3|[Определение перспективного тарифа для телеком-компании](https://github.com/nik-moment/practicum-example/tree/main/tariff-analysis)|Выбор лучшего тарифа путем анализа поведения клиентов|python, pandas numpy, scipy|
 |4|[Рекомендация тарифов](https://github.com/nik-moment/practicum-example/tree/main/tariff-recommendation)|||
 |5|[Отток клиентов](https://github.com/nik-moment/practicum-example/tree/main/outflow-of-bank-customers)|||
 |6|[Выбор локации для скважины](https://github.com/nik-moment/practicum-example/tree/main/choosing-the-location-for-the-well)
