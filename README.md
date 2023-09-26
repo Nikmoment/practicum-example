@@ -2,13 +2,20 @@
 
 |**#**|**Наименование проекта**|**Описание**|**Стек**|
 |--|--|--|--|
-|1| [Выбор локации для скважины](https://github.com/nik-moment/practicum-example/tree/main/choosing-the-location-for-the-well) ||Pandas, Scikit-learn, Бустреп|
-|2| aеделение стоимости автомобилей  |      sddddddddddddddddddddddddddddddddddddddssd asfddfsdfsdfgdsfgdfgdfr sdfsdfgdsfrgdfrgdf|  sdfsdgfdsg <br/> sdfdfgdf|
+|1|[Исследование надежности заемщиков](https://github.com/nik-moment/practicum-example/tree/main/reliability-research)|||
+|2|[Исследование данных о российском кинопрокате](https://github.com/nik-moment/practicum-example/tree/main/film-distribution-research)|||
+|3|[Определение перспективного тарифа для телеком-компании](https://github.com/nik-moment/practicum-example/tree/main/tariff-analysis)|||
+|4|[Рекомендация тарифов](https://github.com/nik-moment/practicum-example/tree/main/tariff-recommendation)|||
+|5|[Отток клиентов](https://github.com/nik-moment/practicum-example/tree/main/outflow-of-bank-customers)|||
+|6|[Выбор локации для скважины](https://github.com/nik-moment/practicum-example/tree/main/choosing-the-location-for-the-well)
+|7|[Предсказание стоимости жилья](https://github.com/nik-moment/practicum-example/tree/main/house-price-prediction.spark)|||
+|8|[Определение стоимости автомобилей](https://github.com/nik-moment/practicum-example/tree/main/determining-the-cost-of-cars)|||
+|9|[Прогнозирование заказов такси](https://github.com/nik-moment/practicum-example/tree/main/time-series)|||
+|10|[Промышленность](https://github.com/nik-moment/practicum-example/tree/main/industry)|||
 
 
 
 
-## 1.choosing-the-location-for-the-well - Выбор локации для скважины
 
 - Сфера: Добывающие компании
 - Направления:
@@ -21,7 +28,7 @@
   + Scikit-learn;
   + Бутстреп
 
-## 2.determining-the-cost-of-cars - Определение стоимости автомобилей
+
 
 - Сфера: Интернет сервисы
 - Направление: Машинное обучение
@@ -29,7 +36,7 @@
   + Pandas;
   + LightGBM
  
-## 3.film-distribution-research - Исследование данных о российском кинопрокате
+
 
 - Сфера: Стримминговые сервисы
 - Направления:
@@ -37,7 +44,7 @@
   + Data analyst
 - Инструменты: Pandas
 
-## 4.house-price-prediction.spark - Предсказание стоимости жилья
+
 
 - Сфера: Площадки объявлений
 - Направления:
@@ -61,7 +68,7 @@
   + Scikit-learn;
   + LightGBM
 
-## 6.outflow-of-bank-customers - Отток клиентов
+
 
 - Сфера: Банковская сфера
 - Направления:
@@ -72,7 +79,6 @@
   + Matplotlib;
   + Scikit-learn
 
-## 7.reliability-research - Исследование надежности заемщиков
 
 - Сфера: Банковская сфера
 - Направление: Финансовая аналитика
@@ -80,7 +86,7 @@
   + Pandas;
   + Предобработка данных
 
-## 8.tariff-analysis - Определение перспективного тарифа для телеком-компании
+
 
 - Сфера: Телеком
 - Направление: Продуктовая аналитика
@@ -91,7 +97,6 @@
   + Описательная статистика;
   + Проверка статистических гипотез
 
-## 9.tariff-recommendation - Рекомендация тарифов
 
 - Сфера: Телеком
 - Направления:
