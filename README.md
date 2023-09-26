@@ -1,5 +1,12 @@
 # Описание проектов
 
+|dfdf|dsfsdf|sdfasdf|
+|----|------|-------|
+|ssdf|sdfsdf|sdfdfdf|
+
+
+
+
 ## 1.choosing-the-location-for-the-well - Выбор локации для скважины
 
 - Сфера: Добывающие компании
