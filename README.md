@@ -2,7 +2,7 @@
 
 |**#**|**Наименование проекта**|**Описание**|**Стек**|
 |--|--|--|--|
-|1|[Исследование надежности заемщиков](https://github.com/nik-moment/practicum-example/tree/main/reliability-research)|||
+|1|[Исследование надежности заемщиков](https://github.com/nik-moment/practicum-example/tree/main/reliability-research)|Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.|pandas|
 |2|[Исследование данных о российском кинопрокате](https://github.com/nik-moment/practicum-example/tree/main/film-distribution-research)|||
 |3|[Определение перспективного тарифа для телеком-компании](https://github.com/nik-moment/practicum-example/tree/main/tariff-analysis)|||
 |4|[Рекомендация тарифов](https://github.com/nik-moment/practicum-example/tree/main/tariff-recommendation)|||
