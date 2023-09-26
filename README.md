@@ -2,7 +2,7 @@
 
 |**#**|      **Наименование проекта**      |                      **Описание**                      |                      **Стек**                      |
 |-----|------------------------------------|--------------------------------------------------------|----------------------------------------------------|
-|  1  | Выбор локации для скважины         |                                                        |         Pandas, Scikit-learn, Бустреп              |
+|  1  | [Выбор локации для скважины](https://github.com/nik-moment/practicum-example/tree/main/choosing-the-location-for-the-well) ||Pandas, Scikit-learn, Бустреп|
 |2| aеделение стоимости автомобилей  |      sddddddddddddddddddddddddddddddddddddddssd asfddfsdfsdfgdsfgdfgdfr sdfsdfgdsfrgdfrgdf|  sdfsdgfdsg <br/> sdfdfgdf|
 
 
