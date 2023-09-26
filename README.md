@@ -3,10 +3,7 @@
 |**#**|      **Наименование проекта**      |                      **Описание**                      |                      **Стек**                      |
 |-----|------------------------------------|--------------------------------------------------------|----------------------------------------------------|
 |  1  | Выбор локации для скважины         |                                                        |         Pandas, Scikit-learn, Бустреп              |
-                                                  sdddddddddddddddddddddddddddddddddddddddddddddd                             
-|  2  | Определение стоимости автомобилей  |      sddddddddddddddddddddddddddddddddddddddddddddssd  |         ssdfsdfsdf                                 |
-                                                  sdfsdddddddsdddddddddddddddddddddddddddddddddddd 
-
+|2| aеделение стоимости автомобилей  |      sddddddddddddddddddddddddddddddddddddddssd <br/>  asfddfsdfsdfgdsfgdfgdfr <br/> sdfsdfgdsfrgdfrgdf|  sdfsdgfdsg <br/> sdfdfgdf|
 
 
 
